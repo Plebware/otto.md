@@ -1,6 +1,6 @@
-# ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO ARCHIVE
+# ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO'S ARCHIVE
 ---
-## 🌐 Plebware Links | ⚙️ [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/) | ✍️ [PlebMachine Core](https://Plebware.github.io/PlebMachine/)
+##### 🌐 Plebware Links | ⚙️ [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/) | ✍️ [PlebMachine Core](https://Plebware.github.io/PlebMachine/)
 ---
 ## Writing • Reflection • Fiction • Documentation
 
