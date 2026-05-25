@@ -9,7 +9,7 @@ Devotions are archived in descending order
  ---
 🌅 [New Mercies at the Prepaid Meter](https://github.com/Plebware/otto/blob/main/may-2026.md#-new-mercies-at-the-prepaid-meter)
 
-🕊️ The Promise of the Father — Led by the Holy Spirit
+🕊️ [The Promise of the Father - Led by the Holy Spirit](https://github.com/Plebware/otto/edit/main/may-2026.md#-2-trusting-god-through-grief--frustration)
 
 😔 HONEST TEARS ARE STILL PRAYER
 
