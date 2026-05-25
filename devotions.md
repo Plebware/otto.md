@@ -1,6 +1,9 @@
 # Devotions Archive
 ---
-Devotions are archived in descending order
+[Home](index.md)
+---
+
+##### Devotions are archived in descending order
 
 ---
 # 2026
