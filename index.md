@@ -29,8 +29,8 @@ Written under identities including:
 ### Fiction
 Explorations into speculative technology, dystopian systems, AI, and human resilience.
 
-### Devotionals
-Faith-centered writings, reflections, and spiritual observations.
+### [Devotionals](devotions.md)
+Faith-centred writings, reflections, and spiritual observations.
 
 ### Development Journals
 Thoughts and experiences from ongoing Linux and PlebMachine development.
